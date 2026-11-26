@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: "/chrono-steps-docs/",
   title: "Chrono Steps",
   description: "Client-side screen recording, redaction, and illustrated procedure guide studio by Unfoundry.",
   cleanUrls: true,
