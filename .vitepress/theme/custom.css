@@ -1,0 +1,13 @@
+:root {
+  --vp-c-brand-1: #158cba;
+  --vp-c-brand-2: #117095;
+  --vp-c-brand-3: #23a8dc;
+  --vp-c-brand-soft: rgba(21, 140, 186, 0.14);
+}
+
+.VPHomeHero .name {
+  background: linear-gradient(120deg, #117095 20%, #158cba 60%, #75caeb 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
